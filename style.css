@@ -1,4 +1,5 @@
 body {
-    background: image("duck.jpg");
+    background: #21f7b3;
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
